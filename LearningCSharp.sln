@@ -1,10 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-# SharpDevelop 4.4
+# SharpDevelop 5.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCSharp", "LearningCSharp\LearningCSharp.csproj", "{14852A20-B670-4FF7-B5D5-E0328CB6873B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf1", "wpf1\wpf1.csproj", "{5B391194-664E-45FC-BF5B-F73F9A5022AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{74A5BC2A-0B00-4C2F-B9BE-15156449F247}"
 EndProject
@@ -14,17 +12,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{14852A20-B670-4FF7-B5D5-E0328CB6873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14852A20-B670-4FF7-B5D5-E0328CB6873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14852A20-B670-4FF7-B5D5-E0328CB6873B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14852A20-B670-4FF7-B5D5-E0328CB6873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14852A20-B670-4FF7-B5D5-E0328CB6873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B391194-664E-45FC-BF5B-F73F9A5022AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B391194-664E-45FC-BF5B-F73F9A5022AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B391194-664E-45FC-BF5B-F73F9A5022AC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5B391194-664E-45FC-BF5B-F73F9A5022AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74A5BC2A-0B00-4C2F-B9BE-15156449F247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14852A20-B670-4FF7-B5D5-E0328CB6873B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{74A5BC2A-0B00-4C2F-B9BE-15156449F247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74A5BC2A-0B00-4C2F-B9BE-15156449F247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A5BC2A-0B00-4C2F-B9BE-15156449F247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74A5BC2A-0B00-4C2F-B9BE-15156449F247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A5BC2A-0B00-4C2F-B9BE-15156449F247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
